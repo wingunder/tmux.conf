@@ -1,0 +1,8 @@
+A tmux config that is backwards compatible with GNU Screen
+==========================================================
+
+For anyone, trying to move to tmux, after using GNU Screen for
+decades, the transition might be easier, using this .tmux.conf.
+
+Basically all the frequently used mappings of GNU Screen will work
+seamlessly.
